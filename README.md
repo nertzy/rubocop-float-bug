@@ -1,5 +1,7 @@
 # rubocop-float-bug
 
+Reproduction of [Rubocop issue #13051](https://github.com/rubocop/rubocop/issues/13051).
+
 Run `bundle exec rake` to see the bug in action.
 
 
